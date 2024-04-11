@@ -1,5 +1,7 @@
 # Health Management System
 
+## Note: This project is still under development.
+
 This is a simple Python program for managing personal health data. It allows users to track their daily food intake and exercise routines. Users can add information about what they ate or the exercises they did on a particular day, and the program will store this data in text files.
 
 ## Features
